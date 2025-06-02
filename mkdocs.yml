@@ -1,0 +1,4 @@
+site_name: Embeded electronics markdown pages
+nav:
+    - Home: index.md
+    - About MkDocs: MkDocs_help.md
