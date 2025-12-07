@@ -6,26 +6,26 @@
 ## 开发环境
 IMX6ULL CPU资源
 
-![](./imx6ull_using_1_00.webp)
+![](./00.webp)
 
 百问网100ask的imx6ull  PRO开发板的接口:
-![](./imx6ull_using_1_10.webp)
+![](./10.webp)
 开发板登录名是 root，无需密码
 
 
 J5插座作为摄像头用时:
 
-![](./imx6ull_using_1_20.webp)
+![](./20.webp)
 J5插座作为IO扩展时:
 
-![](./imx6ull_using_1_30.webp)
+![](./30.webp)
 
 ### 在windows+虚拟机环境下开发
 
 #### 在windows +虚拟机环境下开发（参考《第四 A 章 使用 USB 网卡直连配置网络》）
 
 //启动方式如下：
-![](./imx6ull_using_1_40.webp)
+![](./40.webp)
 
 注意：这个拨码仅仅是uboot的启动，而uboot有可能启动的是sd卡（mmc=0），也考虑启动的是emmc（mmc=1），可以在uboot的环境变量中配置：
 
@@ -124,18 +124,18 @@ console=ttymxc0,115200 root=/dev/mmcblk1p2 rootwait rw
 
 
 //调试环境如下：
-![](./imx6ull_using_1_50.webp)
+![](./50.webp)
 
 虚拟机的配置类似如下：
-![](./imx6ull_using_1_60.webp)
+![](./60.webp)
 
 vscode使用ssh remote插件远程登陆vmware的代码：
 
-![](./imx6ull_using_1_70.webp)
+![](./70.webp)
 
 效果图：
 
-![](./imx6ull_using_1_80.webp)
+![](./80.webp)
 
 //开发板配置:
 ifconfig eth0 192.168.5.9
