@@ -19,8 +19,14 @@
 ##  2.1 xxx 开发板
 
 # 10.blog
+
 ## [blog](./blog/toc.md)
 
 
 
-注:本个人网站 `https://nsynet.github.io/embeded_electronics/` 内容基于github pages的 `https://github.com/nsynet/embeded_electronics` ,中国大陆的 gitee 有对应的克隆仓 `https://gitee.com/nsynet/embeded_electronics`(大陆的gitee pages 虽然作废了,但是直接看该仓下面的`docs` 文件夹下的markdown文件,体验也是差强人意,至少不用翻墙,有想法也能方便地提交修改request).  
+
+_____________
+
+注1:本个人网站 `https://nsynet.github.io/embeded_electronics/` 内容基于github pages的 `https://github.com/nsynet/embeded_electronics` ,中国大陆的 gitee 有对应的克隆仓 `https://gitee.com/nsynet/embeded_electronics`(大陆的gitee pages 虽然作废了,但是直接看该仓下面的`docs` 文件夹下的markdown文件,体验也是差强人意,至少不用翻墙,有想法也能方便地提交修改request).  
+
+注2：使用md发布博客，本网站是从 `https://github.com/zjp-CN/mdbook-template` fork 后，修改制作的网站，新增内容时需要注意，新增的markdown页面一定要在SUMMARY.md 里添加了，否则无法根据md文件生成html文件。

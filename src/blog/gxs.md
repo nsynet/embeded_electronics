@@ -29,7 +29,7 @@
 
 缺点：选择性下载需要付费，否则只能整体下载
 
-<img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/fb71011b1c8241b1b6142d56501086d2~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=900&#x26;h=844&#x26;s=85139&#x26;e=png&#x26;b=fbfbfb" width="35%">
+![替代文本](gxs.png)
 
 （如果链接失效，需要资源请单独微信或者百度网盘联系我的账号 nsynet，希望你喜欢诗和远方）
 
