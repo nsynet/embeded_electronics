@@ -11,7 +11,7 @@
 ### [使用笔记2 -使用wsl2搭建韦东山imx6ull pro开发板的开发环境 ](./imx6ull_using_2_wsl/2.md)
 
 ## 1.2 qemu 开发板
-###         1.2.1 [使用笔记](./qemu_1/qemu_1_A.md)
+###         1.2.1 [使用笔记](./qemu/qemu_1_A.md)
 
 # 10.blog
 ## [blog](./blog/toc.md)
